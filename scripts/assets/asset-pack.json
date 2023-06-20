@@ -1,0 +1,433 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/tileset/0.png",
+                "type": "image",
+                "key": "0"
+            },
+            {
+                "url": "assets/tileset/1.png",
+                "type": "image",
+                "key": "1"
+            },
+            {
+                "url": "assets/tileset/2.png",
+                "type": "image",
+                "key": "2"
+            },
+            {
+                "url": "assets/tileset/3.png",
+                "type": "image",
+                "key": "3"
+            },
+            {
+                "url": "assets/tileset/4.png",
+                "type": "image",
+                "key": "4"
+            },
+            {
+                "url": "assets/tileset/5.png",
+                "type": "image",
+                "key": "5"
+            },
+            {
+                "url": "assets/tileset/6.png",
+                "type": "image",
+                "key": "6"
+            },
+            {
+                "url": "assets/tileset/7.png",
+                "type": "image",
+                "key": "7"
+            },
+            {
+                "url": "assets/tileset/8.png",
+                "type": "image",
+                "key": "8"
+            },
+            {
+                "url": "assets/tileset/9.png",
+                "type": "image",
+                "key": "9"
+            },
+            {
+                "url": "assets/tileset/activeBox.png",
+                "type": "image",
+                "key": "activeBox"
+            },
+            {
+                "url": "assets/tileset/android-chrome-192x192.png",
+                "type": "image",
+                "key": "android-chrome-192x192"
+            },
+            {
+                "url": "assets/tileset/android-chrome-512x512.png",
+                "type": "image",
+                "key": "android-chrome-512x512"
+            },
+            {
+                "url": "assets/tileset/apple-touch-icon.png",
+                "type": "image",
+                "key": "apple-touch-icon"
+            },
+            {
+                "url": "assets/tileset/background0.png",
+                "type": "image",
+                "key": "background0"
+            },
+            {
+                "url": "assets/tileset/background1.png",
+                "type": "image",
+                "key": "background1"
+            },
+            {
+                "url": "assets/tileset/background2.png",
+                "type": "image",
+                "key": "background2"
+            },
+            {
+                "url": "assets/tileset/background3.png",
+                "type": "image",
+                "key": "background3"
+            },
+            {
+                "url": "assets/tileset/bat0.png",
+                "type": "image",
+                "key": "bat0"
+            },
+            {
+                "url": "assets/tileset/bat1.png",
+                "type": "image",
+                "key": "bat1"
+            },
+            {
+                "url": "assets/tileset/batPoop0.png",
+                "type": "image",
+                "key": "batPoop0"
+            },
+            {
+                "url": "assets/tileset/batPoop1.png",
+                "type": "image",
+                "key": "batPoop1"
+            },
+            {
+                "url": "assets/tileset/batPoop2.png",
+                "type": "image",
+                "key": "batPoop2"
+            },
+            {
+                "url": "assets/tileset/bossHit.png",
+                "type": "image",
+                "key": "bossHit"
+            },
+            {
+                "url": "assets/tileset/bronzeCoin0.png",
+                "type": "image",
+                "key": "bronzeCoin0"
+            },
+            {
+                "url": "assets/tileset/bronzeCoin1.png",
+                "type": "image",
+                "key": "bronzeCoin1"
+            },
+            {
+                "url": "assets/tileset/bronzeCoin2.png",
+                "type": "image",
+                "key": "bronzeCoin2"
+            },
+            {
+                "url": "assets/tileset/bronzeCoin3.png",
+                "type": "image",
+                "key": "bronzeCoin3"
+            },
+            {
+                "url": "assets/tileset/carrot.png",
+                "type": "image",
+                "key": "carrot"
+            },
+            {
+                "url": "assets/tileset/carrotPowerup.png",
+                "type": "image",
+                "key": "carrotPowerup"
+            },
+            {
+                "url": "assets/tileset/closeFullscreen.png",
+                "type": "image",
+                "key": "closeFullscreen"
+            },
+            {
+                "url": "assets/tileset/cloud.png",
+                "type": "image",
+                "key": "cloud"
+            },
+            {
+                "url": "assets/tileset/cloud0.png",
+                "type": "image",
+                "key": "cloud0"
+            },
+            {
+                "url": "assets/tileset/cloud1.png",
+                "type": "image",
+                "key": "cloud1"
+            },
+            {
+                "url": "assets/tileset/cloud2.png",
+                "type": "image",
+                "key": "cloud2"
+            },
+            {
+                "url": "assets/tileset/coinStat.png",
+                "type": "image",
+                "key": "coinStat"
+            },
+            {
+                "url": "assets/tileset/cursor.png",
+                "type": "image",
+                "key": "cursor"
+            },
+            {
+                "url": "assets/dino.png",
+                "key": "dino",
+                "type": "image"
+            },
+            {
+                "url": "assets/tileset/door.png",
+                "type": "image",
+                "key": "door"
+            },
+            {
+                "url": "assets/tileset/doubleJumpPowerup.png",
+                "type": "image",
+                "key": "doubleJumpPowerup"
+            },
+            {
+                "url": "assets/tileset/emptyHeart.png",
+                "type": "image",
+                "key": "emptyHeart"
+            },
+            {
+                "url": "assets/tileset/favicon-16x16.png",
+                "type": "image",
+                "key": "favicon-16x16"
+            },
+            {
+                "url": "assets/tileset/favicon-32x32.png",
+                "type": "image",
+                "key": "favicon-32x32"
+            },
+            {
+                "url": "assets/tileset/fire.png",
+                "type": "image",
+                "key": "fire"
+            },
+            {
+                "url": "assets/tileset/flagDown.png",
+                "type": "image",
+                "key": "flagDown"
+            },
+            {
+                "url": "assets/tileset/flagMove0.png",
+                "type": "image",
+                "key": "flagMove0"
+            },
+            {
+                "url": "assets/tileset/flagMove1.png",
+                "type": "image",
+                "key": "flagMove1"
+            },
+            {
+                "url": "assets/tileset/fullHeart.png",
+                "type": "image",
+                "key": "fullHeart"
+            },
+            {
+                "url": "assets/tileset/fullscreen.png",
+                "type": "image",
+                "key": "fullscreen"
+            },
+            {
+                "url": "assets/tileset/goldCoin0.png",
+                "type": "image",
+                "key": "goldCoin0"
+            },
+            {
+                "url": "assets/tileset/goldCoin1.png",
+                "type": "image",
+                "key": "goldCoin1"
+            },
+            {
+                "url": "assets/tileset/goldCoin2.png",
+                "type": "image",
+                "key": "goldCoin2"
+            },
+            {
+                "url": "assets/tileset/goldCoin3.png",
+                "type": "image",
+                "key": "goldCoin3"
+            },
+            {
+                "url": "assets/tileset/grassBlock.png",
+                "type": "image",
+                "key": "grassBlock"
+            },
+            {
+                "url": "assets/tileset/halfHeart.png",
+                "type": "image",
+                "key": "halfHeart"
+            },
+            {
+                "url": "assets/tileset/house.png",
+                "type": "image",
+                "key": "house"
+            },
+            {
+                "url": "assets/tileset/inactiveBox.png",
+                "type": "image",
+                "key": "inactiveBox"
+            },
+            {
+                "url": "assets/tileset/laser.png",
+                "type": "image",
+                "key": "laser"
+            },
+            {
+                "url": "assets/tileset/laserShooter.png",
+                "type": "image",
+                "key": "laserShooter"
+            },
+            {
+                "url": "assets/tileset/luckyAlien.png",
+                "type": "image",
+                "key": "luckyAlien"
+            },
+            {
+                "url": "assets/tileset/mushroom.png",
+                "type": "image",
+                "key": "mushroom"
+            },
+            {
+                "url": "assets/tileset/mushroomPowerup.png",
+                "type": "image",
+                "key": "mushroomPowerup"
+            },
+            {
+                "url": "assets/tileset/player.png",
+                "type": "image",
+                "key": "player"
+            },
+            {
+                "url": "assets/tileset/playerWalk0.png",
+                "type": "image",
+                "key": "playerWalk0"
+            },
+            {
+                "url": "assets/tileset/playerWalk1.png",
+                "type": "image",
+                "key": "playerWalk1"
+            },
+            {
+                "url": "assets/tileset/playerWalk2.png",
+                "type": "image",
+                "key": "playerWalk2"
+            },
+            {
+                "url": "assets/tileset/screenshot.png",
+                "type": "image",
+                "key": "screenshot"
+            },
+            {
+                "url": "assets/tileset/sign.png",
+                "type": "image",
+                "key": "sign"
+            },
+            {
+                "url": "assets/tileset/smoke.png",
+                "type": "image",
+                "key": "smoke"
+            },
+            {
+                "url": "assets/tileset/snail0.png",
+                "type": "image",
+                "key": "snail0"
+            },
+            {
+                "url": "assets/tileset/snail1.png",
+                "type": "image",
+                "key": "snail1"
+            },
+            {
+                "url": "assets/tileset/snailShell.png",
+                "type": "image",
+                "key": "snailShell"
+            },
+            {
+                "url": "assets/tileset/soundOff.png",
+                "type": "image",
+                "key": "soundOff"
+            },
+            {
+                "url": "assets/tileset/soundOn.png",
+                "type": "image",
+                "key": "soundOn"
+            },
+            {
+                "url": "assets/tileset/speedBlock.png",
+                "type": "image",
+                "key": "speedBlock"
+            },
+            {
+                "url": "assets/tileset/spider0.png",
+                "type": "image",
+                "key": "spider0"
+            },
+            {
+                "url": "assets/tileset/spider1.png",
+                "type": "image",
+                "key": "spider1"
+            },
+            {
+                "url": "assets/tileset/spikeBall0.png",
+                "type": "image",
+                "key": "spikeBall0"
+            },
+            {
+                "url": "assets/tileset/spikeBall1.png",
+                "type": "image",
+                "key": "spikeBall1"
+            },
+            {
+                "url": "assets/tileset/spring0.png",
+                "type": "image",
+                "key": "spring0"
+            },
+            {
+                "url": "assets/tileset/spring1.png",
+                "type": "image",
+                "key": "spring1"
+            },
+            {
+                "url": "assets/tileset/stoneBlock.png",
+                "type": "image",
+                "key": "stoneBlock"
+            },
+            {
+                "url": "assets/tileset/sword.png",
+                "type": "image",
+                "key": "sword"
+            },
+            {
+                "url": "assets/tilemap/testmap.tmj",
+                "type": "binary",
+                "key": "testmap"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}
